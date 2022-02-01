@@ -7,70 +7,70 @@ annotations:
     reference: ''
     span:
       start: 0
-      end: 753
+      end: 752
     note_ref: 3be4887b14f5493d8ceb65ce8df77145
   cc53e85884a54ec0ab93814fbb4a3aef:
     imgnum: 246
     reference: ''
     span:
-      start: 755
-      end: 2113
+      start: 754
+      end: 2112
     note_ref: 3be4887b14f5493d8ceb65ce8df77145
   35155c1830dd438e941b595156aeecdf:
     imgnum: 247
     reference: ''
     span:
-      start: 2115
-      end: 3482
+      start: 2114
+      end: 3481
     note_ref: 3be4887b14f5493d8ceb65ce8df77145
   3cc58b3a19af439abd2d61a6aa4eb541:
     imgnum: 248
     reference: ''
     span:
-      start: 3484
-      end: 4821
+      start: 3483
+      end: 4820
     note_ref: 3be4887b14f5493d8ceb65ce8df77145
   74d18cd79755491da237063883606eb8:
     imgnum: 249
     reference: ''
     span:
-      start: 4823
-      end: 6191
+      start: 4822
+      end: 6190
     note_ref: 3be4887b14f5493d8ceb65ce8df77145
   ffe70e2bf6ac4557a757e3a18f8417b2:
     imgnum: 250
     reference: ''
     span:
-      start: 6193
-      end: 7619
+      start: 6192
+      end: 7618
     note_ref: 3be4887b14f5493d8ceb65ce8df77145
   559e102a28014a0daaafedd40d74793f:
     imgnum: 251
     reference: ''
     span:
-      start: 7621
-      end: 8986
+      start: 7620
+      end: 8985
     note_ref: 3be4887b14f5493d8ceb65ce8df77145
   7fd4931965864cc2a4b17808d2def0aa:
     imgnum: 252
     reference: ''
     span:
-      start: 8988
-      end: 10328
+      start: 8987
+      end: 10327
     note_ref: 3be4887b14f5493d8ceb65ce8df77145
   01f4e15f6ca247f3a4f96a3602657188:
     imgnum: 253
     reference: ''
     span:
-      start: 10330
-      end: 11688
+      start: 10329
+      end: 11687
     note_ref: 3be4887b14f5493d8ceb65ce8df77145
   3be4887b14f5493d8ceb65ce8df77145:
     imgnum: 254
     reference: ''
     span:
-      start: 11690
-      end: 12092
+      start: 11689
+      end: 12091
 local_ids:
   fb3fdf5ed7394391b1e3df4342e64184: 200000
   cc53e85884a54ec0ab93814fbb4a3aef: 200001
